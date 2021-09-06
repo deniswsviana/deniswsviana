@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniswsviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="right" alt="Deniscafe" src="https://discord.com/channels/793573726879875094/793573728339361804/882803053739253781">
+   <img aria-label=":cafe:" src="https://cdn.discordapp.com/emojis/884559733481177108.png?v=1" alt=":cafe:" draggable="false" class="emoji jumboable">
   
  </div>
   
