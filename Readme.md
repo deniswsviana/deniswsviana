@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniswsviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-   <img aria-label=":cafe:" src="https://cdn.discordapp.com/emojis/884559733481177108.png?v=1" alt=":cafe:" draggable="false" class="emoji jumboable">
+   <img align="right" aria-label=":cafe:" src="https://cdn.discordapp.com/emojis/884559733481177108.png?v=1" alt=":cafe:" >
   
  </div>
   
